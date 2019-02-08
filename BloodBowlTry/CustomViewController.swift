@@ -8,12 +8,18 @@
 
 import UIKit
 
+var players = [AUnit]()
 class CustomViewController: UIViewController {
+    
+    
+    
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        players = [linemenHuman, throwerHuman, catcherHuman, blitzerHuman, ogreHuman, trollOrc]
     }
     
 
@@ -26,5 +32,6 @@ class CustomViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+   
 
 }

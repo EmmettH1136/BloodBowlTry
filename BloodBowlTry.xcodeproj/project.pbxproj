@@ -58,8 +58,8 @@
 			children = (
 				5F36D3C221821FD300703F18 /* AppDelegate.swift */,
 				5F36D3C421821FD300703F18 /* ViewController.swift */,
-				5FB29A4D2194A49A000E973B /* CustomViewController.swift */,
 				5F36D3C621821FD300703F18 /* Main.storyboard */,
+				5FB29A4D2194A49A000E973B /* CustomViewController.swift */,
 				5F36D3C921821FDA00703F18 /* Assets.xcassets */,
 				5F36D3CB21821FDA00703F18 /* LaunchScreen.storyboard */,
 				5F36D3CE21821FDA00703F18 /* Info.plist */,
